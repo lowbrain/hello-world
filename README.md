@@ -16,3 +16,6 @@
 - [Try Git simulator](http://try.github.io/)
 ### GitHub
 - [GitHubオープンソースガイドライン](https://opensource.guide/ja/)
+### Flow
+- [Git+GitHub入門 #07：ブランチ運用のガイドライン Git Flow](https://www.youtube.com/watch?v=NxjTTIUl_Pw)
+- [Git+GitHub入門 #08：プルリクエストを使ったブランチ運用 GitHub Flow](https://www.youtube.com/watch?v=xDMBBzWiSEI)
