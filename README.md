@@ -50,4 +50,5 @@
     - [Remote - Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
     - [Remote - WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)
   - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+  - [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
 ### Docker
