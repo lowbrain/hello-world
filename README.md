@@ -42,7 +42,7 @@
   ```
 
 ### VSCode
-- 導入したExtension
+- 導入するExtension
   - [Japanese Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ja)
   - [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
     - [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
@@ -50,5 +50,9 @@
     - [Remote - Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
     - [Remote - WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)
   - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
-  - [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
+- Visual Studio Code + Remote Containersで開発する
+  - [Developing inside a Container](https://code.visualstudio.com/docs/remote/containers)を参照してベースとしての開発環境を構築する
+  - Container内のVSCodeに導入するExtensionは以下のとおり
+    - [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
+
 ### Docker
