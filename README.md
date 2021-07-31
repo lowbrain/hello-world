@@ -37,8 +37,8 @@
   - "Configuring the terminal emulator to use with Git Bash"タブは、お好みで
 - インストール後においては、ターミナルを開いて以下グローバル設定を施す
   ```DOS
-  $ git config --global user.name "名前（コミット時に利用される）" 
-  $ git config --global user.email "メアド（これもコミット時）" 
+  $ git config --global user.name "名前（GitHubのアカウント名）" 
+  $ git config --global user.email "メアド（GitHubアカウントに紐づく"***@users.noreply.github.com"アドレス）" 
   ```
 
 ### VSCode
