@@ -25,7 +25,7 @@
 - [Git+GitHub入門 #08：プルリクエストを使ったブランチ運用 GitHub Flow](https://www.youtube.com/watch?v=xDMBBzWiSEI)
 </details>
 
-## クライアント環境のTODO
+## 環境まわり
 
 ### Git
 - [公式サイト](https://gitforwindows.org/)からインストーラーを入手し導入
@@ -40,6 +40,14 @@
   $ git config --global user.name "名前（コミット時に利用される）" 
   $ git config --global user.email "メアド（これもコミット時）" 
   ```
-### VSCode
 
+### VSCode
+- 導入したExtension
+  - [Japanese Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ja)
+  - [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
+    - [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
+    - [Remote - SSH: Editing Configuration Files](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit)
+    - [Remote - Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
+    - [Remote - WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)
+  - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 ### Docker
